@@ -1,0 +1,11 @@
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.csprojAssemblyReference.cache
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.Properties.Resources.resources
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.csproj.GenerateResource.cache
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.csproj.CoreCompileInputs.cache
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\bin\Debug\Echelon.exe.config
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\bin\Debug\Echelon.exe
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\bin\Debug\Echelon.pdb
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\bin\Debug\DotNetZip.dll
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.csproj.CopyComplete
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.exe
+C:\Users\gg\Documents\Projects\Echelon-Stealer-master\obj\Debug\Echelon.pdb
